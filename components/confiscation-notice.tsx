@@ -24,7 +24,7 @@ export function ConfiscationNotice() {
           id="notice-title"
           className="font-mono text-2xl font-semibold leading-snug text-balance sm:text-4xl"
         >
-          This website has been confiscated by{' '}
+          This domain has been confiscated by{' '}
           <a
             href="https://zeroauthority.org"
             target="_blank"

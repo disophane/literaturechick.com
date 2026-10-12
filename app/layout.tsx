@@ -8,7 +8,7 @@ const geistMono = Geist_Mono({ subsets: ['latin'], variable: '--font-geist-mono'
 
 export const metadata: Metadata = {
   title: 'literaturechick.com — Confiscated by ZeroAuthority.org',
-  description: 'This website has been confiscated by ZeroAuthority.org.',
+  description: 'This domain has been confiscated by ZeroAuthority.org.',
   icons: {
     icon: '/icon.svg',
   },
